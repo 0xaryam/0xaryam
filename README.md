@@ -5,7 +5,7 @@
 <img src="https://images.imyfone.com/en/assets/other/ai-tools/ai-gif.png" width="300"/>
 
 ##  About Me 🚀
-- Computer Science Student - Generative AI 
+- Student - Generative AI 
 - Proficient in programming and artificial intelligence tools 
 - I'm working on projects using data analytics and artificial intelligence in smart cities 
 
