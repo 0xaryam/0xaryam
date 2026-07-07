@@ -63,15 +63,15 @@ class Aryam:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ProAryam-X100&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=0xaryam&theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAryam-X100&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xaryam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ProAryam-X100&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=0xaryam&theme=tokyonight&hide_border=true"/>
 
 </p>
 
