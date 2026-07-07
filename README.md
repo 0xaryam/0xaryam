@@ -1,65 +1,69 @@
-<h1 align="center">Hi, I'm Aryam Aseiri 👋</h1>
+<div align="center">
 
-<p align="center">
-DS Student • AI Enthusiast • Building Intelligent Solutions
-</p>
+# ARYAM ASEIRI
 
----
+### AI • Data Science • Machine Learning
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=C9A66B&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Machine+Learning+Enthusiast;Data+Science+Student;Always+Learning+Something+New"/>
 
-- 🎓 student passionate about Artificial Intelligence and Data Science.
-- 🤖 Interested in Machine Learning, Computer Vision, and Robotics.
-- 📊 Building projects in Data Analytics, AI, and Smart City technologies.
-- 🌱 Currently expanding my knowledge in Python, Deep Learning, and AI applications.
-- 💡 I enjoy solving real-world problems with data-driven solutions.
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 01 // PROFILE
 
-<p align="center">
+```python
+class Aryam:
 
-<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,linux&perline=7"/>
+    def __init__(self):
+        self.role = "AI & Data Science Student"
+        self.location = "Saudi Arabia"
+        self.languages = ["Python", "Java", "C"]
+        self.interests = [
+            "Machine Learning",
+            "Generative AI",
+            "Computer Vision",
+            "Robotics",
+            "Data Analytics"
+        ]
 
-</p>
+    def mission(self):
+        return "Turning data into intelligent solutions."
+```
 
 ---
 
-## 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Data Analysis
-- TensorFlow
-- SQL
-
----
-
-## 🌐 Connect With Me
+## 02 // TECH STACK
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/aryam-aseiri-85561a2a9">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/ProAryam-X100">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,c,mysql,git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+## 03 // CURRENT FOCUS
+
+🟤 Machine Learning
+
+🟤 Deep Learning
+
+🟤 Computer Vision
+
+🟤 Data Analytics
+
+🟤 Smart Cities
+
+🟤 Generative AI
+
+---
+
+## 04 // GITHUB
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ProAryam-X100&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ProAryam-X100&theme=tokyonight&show_icons=true&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAryam-X100&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -73,12 +77,26 @@ DS Student • AI Enthusiast • Building Intelligent Solutions
 
 ---
 
-## 💭 Quote
+## 05 // CONNECT
 
-> *"Artificial Intelligence is not just about building smarter machines; it's about creating better solutions for people."*
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aryam-aseiri-85561a2a9">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+
+
+<a href="https://x.com/ill_Ar100">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+<div align="center">
+
+> **"The future belongs to those who build intelligent systems."**
+
+</div>
