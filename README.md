@@ -1,52 +1,86 @@
-  <h2> Hello World, I'm Aryam Aseiri ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-
-<div align="center" width="50">
-
-<img src="https://images.imyfone.com/en/assets/other/ai-tools/ai-gif.png" width="300"/>
-
-##  About Me 🚀
-- Student - Generative AI 
-- Proficient in programming and artificial intelligence tools 
-- I'm working on projects using data analytics and artificial intelligence in smart cities 
-
-##  Programming Languages & Skills 🛠️
+<h1 align="center">Hi, I'm Aryam Aseiri 👋</h1>
 
 <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="margin: 0 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="margin: 0 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 0 10px;"/>
+Data Science Student • AI Enthusiast • Building Intelligent Solutions
 </p>
 
-##  Connect with Me 🌍
+---
 
-<div align="center">
-    <a href="https://x.com/ill_Ar100?t=rUeGmYjwmyPhpX4SmqGNBA&s=09" target="blank">
-        <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="margin: 0 13px;"/>
-    </a>
-    <a href="https://github.com/ProAryam-X100" target="blank">
-        <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="margin: 0 13px;"/>
-    </a>
-    <a href="https://www.linkedin.com/in/aryam-aseiri-85561a2a9" target="blank">
-        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 13px;"/>
-    </a>
-</div>
+## 👩‍💻 About Me
 
-##  GitHub Stats and Most Used Languages 📊
+- 🎓 Statistics student passionate about Artificial Intelligence and Data Science.
+- 🤖 Interested in Machine Learning, Computer Vision, and Robotics.
+- 📊 Building projects in Data Analytics, AI, and Smart City technologies.
+- 🌱 Currently expanding my knowledge in Python, Deep Learning, and AI applications.
+- 💡 I enjoy solving real-world problems with data-driven solutions.
 
-<table>
-  <tr>
-    <td style="padding-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ProAryam-X100&show_icons=true&theme=dark" alt="ProAryam-X100's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAryam-X100&theme=dark" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+---
 
+## 🚀 Tech Stack
 
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,linux&perline=7"/>
 
+</p>
 
-##
- Thank you for visiting my profile!
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Analysis
+- TensorFlow
+- SQL
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aryam-aseiri-85561a2a9">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/ProAryam-X100">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://x.com/ill_Ar100">
+<img src="https://cdn.simpleicons.org/x/white"/>
+</a>
+
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ProAryam-X100&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAryam-X100&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ProAryam-X100&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 💭 Quote
+
+> *"Artificial Intelligence is not just about building smarter machines; it's about creating better solutions for people."*
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
