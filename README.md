@@ -86,11 +86,6 @@ class Aryam:
 </a>
 
 
-
-<a href="https://x.com/ill_Ar100">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
 </p>
 
 ---
