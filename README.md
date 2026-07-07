@@ -2,38 +2,29 @@
 
 # ARYAM ASEIRI
 
-### AI • Data Science • Machine Learning
+### `0xaryam`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=C9A66B&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Machine+Learning+Enthusiast;Data+Science+Student;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=C6A16E&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Building+Things+That+Matter"/>
+
+<img src="https://komarev.com/ghpvc/?username=0xaryam&label=Profile+Views&color=8b7355&style=flat-square"/>
 
 </div>
 
 ---
 
-## 01 // PROFILE
+```txt
+> whoami
 
-```python
-class Aryam:
-
-    def __init__(self):
-        self.role = "AI & Data Science Student"
-        self.location = "Saudi Arabia"
-        self.languages = ["Python", "Java", "C"]
-        self.interests = [
-            "Machine Learning",
-            "Generative AI",
-            "Computer Vision",
-            "Robotics",
-            "Data Analytics"
-        ]
-
-    def mission(self):
-        return "Turning data into intelligent solutions."
+Name        :: Aryam Aseiri
+Role        :: AI & Data Science Student
+Focus       :: Machine Learning | Computer Vision | Data Analytics
+Location    :: Saudi Arabia
+Status      :: Building. Learning. Improving.
 ```
 
 ---
 
-## 02 // TECH STACK
+# Tech Stack
 
 <p align="center">
 
@@ -43,27 +34,36 @@ class Aryam:
 
 ---
 
-## 03 // CURRENT FOCUS
+# Current Focus
 
-🟤 Machine Learning
+```python
+aryam = {
 
-🟤 Deep Learning
+    "learning": [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Generative AI"
+    ],
 
-🟤 Computer Vision
+    "building": [
+        "Image Recognition",
+        "Data Analytics Projects",
+        "Smart City Solutions"
+    ],
 
-🟤 Data Analytics
-
-🟤 Smart Cities
-
-🟤 Generative AI
+    "goal":
+        "Build AI systems that solve real-world problems."
+}
+```
 
 ---
 
-## 04 // GITHUB
+# GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=0xaryam&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=0xaryam&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xaryam&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -71,20 +71,42 @@ class Aryam:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=0xaryam&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=0xaryam&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xaryam&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 05 // CONNECT
+# Featured Projects
+
+- 🤖 AI & Machine Learning
+- 📊 Data Analytics
+- 🧠 Computer Vision
+- 🏙 Smart City Applications
+
+---
+
+# Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/aryam-aseiri-85561a2a9">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://github.com/0xaryam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/ill_Ar100">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 </p>
 
@@ -92,6 +114,14 @@ class Aryam:
 
 <div align="center">
 
-> **"The future belongs to those who build intelligent systems."**
+```cpp
+while (!success) {
+    learn();
+    build();
+    improve();
+}
+```
+
+**Thanks for stopping by 👋**
 
 </div>
