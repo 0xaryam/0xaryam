@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Aryam Aseiri 👋</h1>
 
 <p align="center">
-Data Science Student • AI Enthusiast • Building Intelligent Solutions
+DS Student • AI Enthusiast • Building Intelligent Solutions
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Statistics student passionate about Artificial Intelligence and Data Science.
+- 🎓 student passionate about Artificial Intelligence and Data Science.
 - 🤖 Interested in Machine Learning, Computer Vision, and Robotics.
 - 📊 Building projects in Data Analytics, AI, and Smart City technologies.
 - 🌱 Currently expanding my knowledge in Python, Deep Learning, and AI applications.
@@ -49,9 +49,7 @@ Data Science Student • AI Enthusiast • Building Intelligent Solutions
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://x.com/ill_Ar100">
-<img src="https://cdn.simpleicons.org/x/white"/>
-</a>
+
 
 </p>
 
