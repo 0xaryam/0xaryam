@@ -1,4 +1,4 @@
-# 💫 About Me
+# 👩‍💻 About Me
 
 Hi! I'm **Aryam Aseiri**, a Statistics student passionate about Artificial Intelligence, Data Science, and building technology that solves real-world problems
 
