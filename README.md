@@ -14,10 +14,10 @@ I enjoy learning by building real projects and exploring the connection between 
 ## 🌐 Socials
 
 <a href="https://www.linkedin.com/in/aryam-aseiri-85561a2a9">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="./linkedin.png" height="55" alt="LinkedIn">
 </a>
 <a href="https://0xaryam.github.io/aryam-website/">
-  <img src="./logo.png" width="40" height="40" alt="Portfolio">
+  <img src="./website.png" height="55" alt="Website">
 </a>
 
 # 💻 Tech Stack
