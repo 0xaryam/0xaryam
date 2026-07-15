@@ -13,8 +13,13 @@ I enjoy learning by building real projects and exploring the connection between 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryam-aseiri-85561a2a9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C6A16E?logo=googlechrome&logoColor=white)](https://0xaryam.github.io/aryam-website/)
+<a href="https://www.linkedin.com/in/aryam-aseiri-85561a2a9">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://0xaryam.github.io/aryam-website/">
+  <img src="./logo.png" width="40" height="40" alt="Portfolio">
+</a>
+
 # 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
