@@ -43,4 +43,4 @@ I enjoy learning by building real projects and exploring the connection between 
 
 ---
 
-![](https://komarev.com/ghpvc/?username=0xaryam&color=2)
+![](https://komarev.com/ghpvc/?username=0xaryam&label=Profile%20Views&color=C6A16E&style=flat)
