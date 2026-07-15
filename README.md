@@ -60,9 +60,13 @@ aryam = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xaryam&show_icons=true&hide_border=true&theme=transparent&title_color=C6A16E&text_color=888888&icon_color=C6A16E"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=0xaryam&show_icons=true&hide_border=true&theme=transparent&title_color=C6A16E&text_color=FFFFFF&icon_color=C6A16E"
+alt="Aryam's GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xaryam&layout=compact&hide_border=true&theme=transparent&title_color=C6A16E&text_color=888888"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xaryam&layout=compact&hide_border=true&theme=transparent&title_color=C6A16E&text_color=FFFFFF"
+alt="Aryam's Top Languages" />
 
 </div>
 
@@ -70,7 +74,9 @@ aryam = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xaryam&bg_color=transparent&color=C6A16E&line=C6A16E&point=FFFFFF&area=true&hide_border=true"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=0xaryam&theme=github-compact&hide_border=true&area=true"
+alt="Aryam's Contribution Graph" />
 
 </div>
 
