@@ -1,103 +1,46 @@
-<div align="center">
+# 💫 About Me
 
-# Hi, I'm Aryam 👋
+Hi! I'm **Aryam Aseiri**, a Statistics student passionate about Artificial Intelligence, Data Science, and building technology that solves real-world problems.
 
-### Statistics Student · AI & Data Enthusiast
+My interests span several areas:
 
-I’m interested in turning **data into insights** and building intelligent solutions using
-**Artificial Intelligence, Machine Learning, and Data Science.**
+- 🤖 **Artificial Intelligence** — Exploring intelligent systems and AI applications
+- 📊 **Data Science** — Turning data into meaningful insights
+- 🧠 **Computer Vision** — Building image recognition and tracking projects
+- ⚙️ **Robotics & IoT** — Developing smart and connected systems
 
-<br>
+I enjoy learning by building real projects and exploring the connection between **statistics, data, and artificial intelligence**.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=C6A16E&center=true&vCenter=true&width=600&lines=Statistics+%26+Data+Science;Artificial+Intelligence;Machine+Learning;Computer+Vision"/>
+## 🌐 Socials
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryam-aseiri-85561a2a9)
 
-<img src="https://komarev.com/ghpvc/?username=0xaryam&label=Profile+Views&color=C6A16E&style=flat-square"/>
+# 💻 Tech Stack
 
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+# 📊 GitHub Stats
 
-## About Me
+![](https://github-readme-stats.shion.dev/api?username=0xaryam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-```python
-aryam = {
-    "major": "Statistics",
-    "interests": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Science",
-        "Computer Vision"
-    ],
-    "currently_learning": "Building intelligent systems with data",
-    "goal": "Create technology that solves real-world problems"
-}
-```
+![](https://streak-stats.demolab.com/?user=0xaryam&theme=dark&hide_border=false)
 
----
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=0xaryam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Tech Stack
+### ✍️ Random Dev Quote
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,c,mysql,git,github,vscode,linux&perline=10"/>
-
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-## What I'm Working On
-
-* 🤖 **Artificial Intelligence** — exploring intelligent systems and AI applications
-* 📊 **Data Science** — analyzing data and discovering meaningful insights
-* 🧠 **Computer Vision** — building image recognition and tracking projects
-* ⚙️ **Robotics & IoT** — experimenting with smart and connected systems
-
----
-## GitHub Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=0xaryam&bg_color=00000000&color=C6A16E&line=C6A16E&point=FFFFFF&area=true&hide_border=true&custom_title=ARYAM's%20Contribution%20Graph"
-alt="Aryam's Contribution Graph"
-/>
-
-</div>
----
-
-## Developer Profile
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-C6A16E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Major-Statistics-C6A16E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Interest-Data%20Science-C6A16E?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/0xaryam?style=flat-square&color=C6A16E&label=Followers"/>
-<img src="https://img.shields.io/github/stars/0xaryam?affiliations=OWNER&style=flat-square&color=C6A16E&label=Stars"/>
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aryam-aseiri-85561a2a9">
-<img src="https://img.shields.io/badge/LinkedIn-C6A16E?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>Learning · Building · Improving</sub>
-
-</div>
+![](https://komarev.com/ghpvc/?username=0xaryam&color=2)
