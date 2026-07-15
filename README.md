@@ -56,17 +56,11 @@ aryam = {
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=0xaryam&show_icons=true&hide_border=true&theme=transparent&title_color=C6A16E&text_color=FFFFFF&icon_color=C6A16E"
-alt="Aryam's GitHub Stats" />
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xaryam&layout=compact&hide_border=true&theme=transparent&title_color=C6A16E&text_color=FFFFFF"
-alt="Aryam's Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xaryam&theme=transparent" alt="Aryam's GitHub Activity"/>
 
 </div>
 
@@ -74,9 +68,24 @@ alt="Aryam's Top Languages" />
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=0xaryam&theme=github-compact&hide_border=true&area=true"
-alt="Aryam's Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xaryam&bg_color=00000000&color=C6A16E&line=C6A16E&point=FFFFFF&area=true&hide_border=true&custom_title=ARYAM's%20Contribution%20Graph" alt="Aryam's Contribution Graph"/>
+
+</div>
+
+---
+
+## Developer Profile
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-C6A16E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Major-Statistics-C6A16E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Interest-Data%20Science-C6A16E?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/0xaryam?style=flat-square&color=C6A16E&label=Followers"/>
+<img src="https://img.shields.io/github/stars/0xaryam?affiliations=OWNER&style=flat-square&color=C6A16E&label=Stars"/>
 
 </div>
 
