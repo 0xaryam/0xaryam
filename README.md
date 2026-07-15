@@ -55,23 +55,16 @@ aryam = {
 * ⚙️ **Robotics & IoT** — experimenting with smart and connected systems
 
 ---
-
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xaryam&theme=transparent" alt="Aryam's GitHub Activity"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=0xaryam&bg_color=00000000&color=C6A16E&line=C6A16E&point=FFFFFF&area=true&hide_border=true&custom_title=ARYAM's%20Contribution%20Graph"
+alt="Aryam's Contribution Graph"
+/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xaryam&bg_color=00000000&color=C6A16E&line=C6A16E&point=FFFFFF&area=true&hide_border=true&custom_title=ARYAM's%20Contribution%20Graph" alt="Aryam's Contribution Graph"/>
-
-</div>
-
 ---
 
 ## Developer Profile
