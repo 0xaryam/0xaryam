@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi! I'm **Aryam Aseiri**, a Statistics student passionate about Artificial Intelligence, Data Science, and building technology that solves real-world problems.
+Hi! I'm **Aryam Aseiri**, a Statistics student passionate about Artificial Intelligence, Data Science, and building technology that solves real-world problems
 
 My interests span several areas:
 
@@ -9,12 +9,12 @@ My interests span several areas:
 - 🧠 **Computer Vision** — Building image recognition and tracking projects
 - ⚙️ **Robotics & IoT** — Developing smart and connected systems
 
-I enjoy learning by building real projects and exploring the connection between **statistics, data, and artificial intelligence**.
+I enjoy learning by building real projects and exploring the connection between **statistics, data, and artificial intelligence**
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryam-aseiri-85561a2a9)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-C6A16E?logo=googlechrome&logoColor=white)](https://0xaryam.github.io/aryam-website/)
 # 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
